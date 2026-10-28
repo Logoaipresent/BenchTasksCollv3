@@ -1,5 +1,7 @@
 # Final Pool — Task Status
 
+Requirements checked against `tasks/examples/example-task`; only explicit example files were required, and existence was sufficient.
+
 ## implemented
 - fan/loyalty-program
 - fan/discount-calculator
